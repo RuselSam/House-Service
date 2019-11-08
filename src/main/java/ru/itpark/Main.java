@@ -16,5 +16,6 @@ public class Main {
         System.out.println(houseService.searchPrice(27_000, 35_000));
 
         System.out.println(houseService.searchArea("Вахитовский"));
+
     }
 }
